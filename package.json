@@ -1,0 +1,24 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "https://github.com/erick942009/Festivalmusica.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick942009/Festivalmusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "y",
+    "Gulp"
+  ],
+  "author": "Erick Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick942009/Festivalmusica/issues"
+  },
+  "homepage": "https://github.com/erick942009/Festivalmusica#readme"
+}
